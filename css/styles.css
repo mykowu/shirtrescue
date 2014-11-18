@@ -12,6 +12,9 @@
     .container header, .footer .container {
         width: 460px;
     }
+    .container .text {
+        width: 400px;
+    }
 }
 body {
     background-color: #ff6300;
